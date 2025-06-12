@@ -1,6 +1,6 @@
 name: comscore_analytics_flutter
-description: "Comscore analytics for flutter"
-version: 1.0.0
+description: "Comscore Analytics SDK for FLutter: Audience measurement SDK for tracking app usage, engagement, and media consumption."
+version: 1.1.0
 homepage: https://comscore.com
 
 environment:

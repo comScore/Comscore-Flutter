@@ -1,4 +1,4 @@
-import 'package:comscore_analytics_flutter/comscore.dart';
+import 'package:comscore_analytics_flutter/comscore_analytics_flutter.dart';
 import 'package:comscore_analytics_flutter_example/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'dart:async';
