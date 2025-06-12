@@ -1,2 +1,164 @@
-Please refer to the license agreement document on the following URL
-https://github.com/comScore/Comscore-flutter/blob/master/LicenseAgreement.pdf
+# License Agreement
+
+Comscore, Inc.'s software collects information including but not limited to data about the viewing of online video through
+applications and otherwise, and Comscore also uses certain browser-based and other data collection processes including
+tracking user interactions with content including with the use of JavaScript code and other alternative data-sharing technologies
+(collectively referred to as the “Comscore Code”) to measure online viewing and other metrics, all for use in data analytics, for
+research and for other purposes including for inclusion in syndicated and/or custom products and services for its partners and
+customers as well as use in its work with certain industry associations and market currency initiatives or joint industry committees
+in which Comscore participates (all collectively referred to herein as the “Service” or “Services”). This software development kit,
+consisting of documentation (“Documentation”), software and other materials provided to you directly in the download or
+otherwise, and any upgrades, modified versions, additions, and improvements therefor, if any (collectively, the “SDK”) is designed
+to enable software developers to facilitate the transmission of data to Comscore for inclusion in the Services.
+
+This SDK is intended for use only by entities providing data for inclusion in the Services, and for such entities' internal business
+operations only, and for no other purpose. Additionally, this Software License Agreement (the “Agreement”) governs use of the
+SDK by you, and the entity on whose behalf you are downloading the SDK (“you”). BY DOWNLOADING, INSTALLING, OR
+OTHERWISE ACCESSING OR USING THE SDK, YOU AGREE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO
+BE BOUND BY THE AGREEMENT. **_IF YOU DO NOT AGREE, YOU MAY NOT USE THE SDK AND NO DATA SHOULD BE
+TRANSMITTED TO COMSCORE._**
+
+Accordingly, you acknowledge and agree as follows:
+
+1. LIMITED LICENSE. Subject to your complete and ongoing compliance with all the terms and conditions set forth in this
+Agreement, including without limitation all license limitations and restrictions set forth herein, Comscore grants you a limited, non-
+exclusive, non-transferable, non-sublicensable, revocable license to use the Documentation, software and other materials, for
+internal business purposes only, and solely in connection with facilitating the transmission of data to Comscore for inclusion in the
+Services; provided that, the complete License Agreement, including copyright notice and disclaimers, and any additional notices
+regarding use of open source libraries accompanying the License Agreement must be included by you in all copies of the SDK or
+any portion thereof.
+2. RESTRICTIONS/PRIVACY/SECURITY. By accessing or using the SDK, you represent, warrant, and covenant that (a) you are
+a person representing a legitimate business entity engaged in the transmission of data with all lawful consents therefore, and (b)
+you have the full power and authority to bind such entity to the terms of this Agreement. References to “you” herein shall refer to
+you, as well as the entity on whose behalf you are using the SDK including all individual users of the SDK on behalf of such
+entity. You acknowledge that the foregoing license does not include any right to (i) redistribute, sell, lease, license, transfer for
+commercial value, or modify any portion of the SDK, or (ii) distribute, deploy, or otherwise utilize any associated applications in
+connection with a public, production, commercial, or other similar purpose other than for your internal operations facilitating the
+transmission of data to Comscore for inclusion in the Services, or (iii) use or implement any undocumented feature or API, or use
+any documented feature or API other than in accordance with applicable documentation and expressly for the purpose of
+facilitating the transmission of data to Comscore for inclusion in the Services. You may not reproduce, distribute, publicly display,
+or publicly perform any part of the SDK, except as provided herein or in an applicable open source license, if any. Except if, and
+solely to the extent that, such a restriction is not authorized herein, or impermissible under applicable law or applicable Third
+Party Software (defined below) license terms, you may not (y) decompile, reverse engineer, or otherwise access or attempt to
+access the source code for the SDK not made available to you in source code form, or make or attempt to make any modification
+to the SDK; or (z) remove, obscure, interfere with or circumvent any feature of the SDK, including without limitation any copyright
+or other intellectual property notices, security, or access control mechanism. You may not use the SDK for any purpose other
+than interoperating with the Services in a manner for which the SDK and Services are expressly designed. By using the SDK, you
+agree that all data transmitted to Comscore is subject to the terms and conditions of the **Data Sharing Agreement** (DSA) at
+https://direct.comscore.com/Signup/Signup.aspx, and use of the SDK and/or facilitation of the transmission of data to Comscore
+shall be deemed your agreement to the DSA without further action. If you are prohibited under applicable law from using the
+SDK, you may not use it, and you will comply with all applicable laws and regulations (including without limitation laws and
+regulations related to export controls, foreign corrupt practices, and data privacy and compliance) in connection with your use of
+the SDK. Without limiting the generality of the foregoing, you represent and warrant that the SDK will not be shipped, transferred
+or exported into any country or used in any manner prohibited by the United States Export Administration Act or any other export
+laws, restrictions or regulations (collectively the “Export Laws”). In addition, if the SDK is identified as export controlled items
+under the Export Laws, you represent and warrant that you are not a citizen, or otherwise located within, an embargoed nation
+(including without limitation Crimea, Cuba, Iran, North Korea, Sudan, or Syria) and that you are not otherwise prohibited under
+the Export Laws from receiving the SDK. You may not use the SDK for any purpose, or use the SDK in the development of any
+application that is for the purpose of lifesaving, emergency response, or otherwise for deployment in any circumstance in which
+failure would be likely to lead to property damage, environmental damage, personal injury, or death. ANY USE IN VIOLATION OF
+THE FOREGOING LIMITATIONS AND RESTRICTIONS IS STRICTLY PROHIBITED, AND UNLICENSED.
+3. RESERVATION OF RIGHTS. The SDK and Comscore Code is owned by Comscore and licensed, not sold, to you. The SDK,
+content, information, design, compilation, computer code, products, services, and all other elements of the SDK and related
+documentation (collectively the “Comscore Materials”), are protected by copyright, trade dress, patent, and trademark and other
+laws of the United States and other jurisdictions, international conventions, and all other relevant intellectual property and
+proprietary rights, and applicable laws. As between you and Comscore, all Comscore Materials, including intellectual property
+rights therein and thereto, are the sole and exclusive property of Comscore or its subsidiaries or affiliated companies and/or its
+third-party licensors. You may not to sell, license, distribute, copy, modify, publicly perform or display, transmit, publish, edit,
+adapt, create derivative works from, or make any use of the Comscore Materials except as expressly authorized hereunder.
+Comscore reserves all rights not expressly granted in this Agreement. You do not acquire any right, title or interest to the
+Comscore Materials, whether by implication, estoppel, or otherwise, except for the limited, revocable rights set forth in this
+Agreement.
+4. CONFIDENTIALITY. The SDK (including as embodied in or utilized by any Application) is the confidential and proprietary
+information of Comscore, and you may not, during the term or thereafter, disclose them to any third party, or to use them for any
+purpose other than as expressly provided herein, without a separate written agreement with Comscore authorizing you to do so.
+5. FEEDBACK. If you provide Comscore with any comments, bug reports, feedback, enhancements, or modifications proposed or
+suggested by you for the SDK or the Service (“Feedback”), such Feedback is provided on a non-confidential basis
+(notwithstanding any notice to the contrary you may include in any accompanying communication), and Comscore shall have the
+right to use such Feedback at its discretion, including, but not limited to the incorporation of such suggested changes into the
+Comscore Materials, SDK or Service. You hereby grant Comscore a perpetual, irrevocable, transferable, sublicensable,
+nonexclusive license under all rights necessary to so incorporate and use your Feedback for any purpose, including to make and
+sell products and services.
+6. THIRD PARTY SOFTWARE. The SDK consists of a package of components, which may include certain third-party software
+(“Third Party Software”) provided by its authors under separate license terms (the “Third Party Terms”), as may be described in
+more detail in the SDK documentation as relevant. Your use of the Third Party Software in conjunction with the SDK in a manner
+consistent with this Agreement is permitted, however, you may have broader rights to use that Third Party Software under the
+applicable Third Party Terms and nothing in this Agreement is intended to impose further restrictions on your use of the Third
+Party Software. Nothing in the foregoing statement can or should be construed to allow you to interpret Third Party Terms in a
+manner that expands your use rights in or for the Comscore Materials.
+7. TERM AND TERMINATION. This Agreement will remain in effect until terminated. The Agreement, and your rights and
+licenses hereunder, will terminate immediately upon your breach of the Agreement. You may terminate the Agreement by
+uninstalling and ceasing all use of the SDK. Comscore may terminate this Agreement at any time for any reason, including
+without limitation any actual or suspected misuse or abuse by you of the SDK or any violation of this Agreement, including the
+DSA. Following any termination of this Agreement, you must immediately uninstall and cease use of the SDK, and destroy all
+copies. Sections 2, 3, 4, 5, 6, 7, 8, 9, 10, and 11 shall survive any termination of this Agreement.
+8. **WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY.** THE SDK, COMSCORE MATERIALS AND ALL ASSOCIATED
+DOCUMENTATION, LIBRARIES, AND CODE ARE PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTY OF ANY KIND.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, COMSCORE DISCLAIMS ALL WARRANTIES AND
+CONDITIONS, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO IMPLIED
+WARRANTIES OR CONDITIONS OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, TITLE, QUALITY,
+RESULTS, AND NON-INFRINGEMENT. COMSCORE EXPRESSLY DISCLAIMS ANY WARRANTIES OF ANY KIND WITH
+RESPECT TO THE ACCURACY OR FUNCTIONALITY OF THE SDK, AND WITH RESPECT TO THE ACCURACY, VALIDITY,
+OR COMPLETENESS OF ANY INFORMATION OR FEATURES AVAILABLE THROUGH THE SDK, OR THE QUALITY OR
+CONSISTENCY OF THE SDK OR RESULTS OBTAINED THROUGH ITS USE. UNDER NO CIRCUMSTANCES WILL
+COMSCORE BE LIABLE FOR ANY CONSEQUENTIAL, SPECIAL, INDIRECT, INCIDENTAL OR PUNITIVE DAMAGES
+WHATSOEVER ARISING OUT OF THE USE OR INABILITY TO USE THE SDK, EVEN IF COMSCORE HAS BEEN ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGES, AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY
+LIMITED REMEDY. IN NO EVENT WILL COMSCORE'S AGGREGATE LIABILITY FOR DAMAGES ARISING OUT OF THIS
+AGREEMENT OR THE TERMS EXCEED THE GREATER OF AMOUNTS PAID BY YOU FOR THE SDK, IF ANY, OR $50USD.
+SOME JURISDICTIONS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION
+OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO THE ABOVE LIMITATIONS MAY NOT APPLY TO
+YOU. IN SUCH AN EVENT THE ABOVE LIMITATIONS AND EXCLUSIONS WILL BE ENFORCED TO THE MAXIMUM EXTENT
+PERMITTED UNDER APPLICABLE LAW.
+9. INDEMNITY. You agree to indemnify, defend and hold Comscore and its affiliates, officers, directors, suppliers, licensors, and
+other customers harmless from and against any and all liability and costs, including reasonable attorneys' fees incurred by such
+parties, in connection with or arising out of your use or misuse of the SDK and Comscore Materials, or your violation of this
+Agreement, any applicable law or regulation.
+10. GOVERNING LAW; VENUE. Any claim relating to the SDK or Service shall be governed by the laws of New York, without
+regard to conflict of laws provisions. Disputes arising under this shall be resolved in, and subject to the sole and exclusive
+jurisdiction of the state and federal courts located in the Commonwealth of Virginia, and you hereby agree this exclusive venue
+and submit to the personal jurisdiction of the courts in the Commonwealth of Virginia.
+11. MISCELLANEOUS. This Agreement is the entire agreement between you and Comscore, and supersedes any and all prior
+agreements, negotiations, or other communications between you and Comscore, whether oral or written, with respect to the SDK
+or Comscore Materials, and cannot be modified except in writing signed by both parties. In the event that any provision of this
+Agreement is held to be invalid or unenforceable, then: (a) such provision shall be deemed reformed to the extent strictly
+necessary to render such provision valid and enforceable, or if not capable of such reformation shall be deemed severed from
+this Agreement; and (b) the validity and enforceability of all of the other provisions hereof, shall in no way be affected or impaired
+thereby. You may not assign this Agreement without the prior written consent of Comscore, whether expressly or by operation of
+law, including in connection with a merger or change of control, and any such attempted assignment shall be void and of no
+effect. Comscore may assign this Agreement without restriction and without any notice to you. Subject to the foregoing, this
+Agreement shall be binding on the parties and their respective successors and permitted assigns. You acknowledge and
+understand that if Comscore is unable to provide the SDK, or if its functionality is impaired, as a result of a force majeure event
+Comscore will not be in breach of this Agreement. A force majeure event means any event beyond the control of Comscore. The
+failure to exercise, or delay in exercising, a right, power or remedy provided in this Agreement or by law shall not constitute a
+waiver of that right, power or remedy. Comscore's waiver of any obligation or breach of this Agreement shall not operate as a
+waiver of any other obligation or subsequent breach of the Agreement. The English language version of this Agreement shall be
+the official and controlling version, and any translation provided is solely for convenience. The SDK is a “Commercial Item” as
+that term is defined at 48 C.F.R. 2.101, consisting of “Commercial Computer Software” and “Commercial Computer Software
+Documentation.” If and to the extent the SDK is supplied to or purchased by or on behalf of a United States government entity or
+an entity licensing the SDK for or on behalf of a United States government entity, the SDK is licensed (a) only as a Commercial
+Item and (b) with only those rights as are granted to all other end users pursuant to the terms and conditions of this agreement.
+
+## Third party notices and licenses
+
+The SDK makes use of open source libraries, the relevant portions of which are distributed with the following notices and
+licenses, to be included in any authorized copies or redistribution hereof.
+
+### JUCE library
+
+The juce_core module of the JUCE library (https://github.com/WeAreROLI/JUCE) _(1)_ Copyright (c) 2015 - ROLI Ltd.
+
+Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided
+that the above copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED “AS IS” AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS
+SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT,
+NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+
+```
+(1) NOTE! The permissive ISC license applies to files within the juce_core module (http://www.isc.org/downloads/software-support-policy/isc-license/). Other JUCE
+modules are covered by a dual GPL/commercial license.
+```
